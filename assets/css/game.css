@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Arcade";
+    src: url("../fonts/arcade_classic_pizz/ARCADECLASSIC.TTF");
+}
+
+body
+{
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+
+.container {
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+}
+
+.game-title {
+    font-size: 48pt;
+    font-family: Arcade, sans-serif;
+    font-weight: 100; 
+    background: -webkit-linear-gradient(#970303, #97030362);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
