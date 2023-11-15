@@ -1,5 +1,7 @@
 # The Arcade Playground
 
+Link: https://aelkhamsi.github.io/arcade/
+
 In this project, i tried to implement some arcade games playable in the browser using vanilla Javascript.
 Until now, the implemented games are **Snake** and **Flappy Bird**.
 				
